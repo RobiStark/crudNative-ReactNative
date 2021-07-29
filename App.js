@@ -4,7 +4,7 @@ import {StyleSheet, Text} from 'react-native';
 const App = () => {
   return(
     <>
-      <Text>Hola</Text>
+      <Text>Hola desde Local</Text>
     </>
   )
 };
