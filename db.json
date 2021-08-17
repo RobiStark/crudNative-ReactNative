@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "roberto actualizado",
+      "telefono": "000000",
+      "empresa": "Mi empresa actualizada",
+      "correo": "CorroeActualizado@coreo.com",
+      "id": 1
+    },
+    {
+      "nombre": "juanAndroid",
+      "telefono": "22334455",
+      "empresa": "empresaeAndroid",
+      "correo": "juandos@correo.com",
+      "id": 5
+    },
+    {
+      "nombre": "JuanIOS",
+      "telefono": "12345",
+      "empresa": "Empresaios",
+      "correo": "Correo@correo.com",
+      "id": 6
+    },
+    {
+      "nombre": "Jimena",
+      "telefono": "5544332211",
+      "empresa": "Empresa de jimena",
+      "correo": "Jimena@correo.com",
+      "id": 9
+    }
+  ]
+}
